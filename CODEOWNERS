@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @kaos-ladder
+/src/backend/database.py      @kaos-ladder
+/src/backend/routers/auth.py  @kaos-ladder
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @kaos-ladder
